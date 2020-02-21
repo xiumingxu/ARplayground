@@ -16,7 +16,7 @@ This face sticker is artistic style considering light, refraction, and morphy sh
  
 ## Interactions
 script monitored two face gesture and lead the effect to two status: face normal state and face deformed state
-###  normal face state (Initial states)
+###  Normal face state (Initial states)
 - 4 blobs rotated around the face with refraction and light effect.
 - The mouse openness could control blobs size.
 When the mouse opened to a certain threshold (here is 0.58), the state changed to deformed state.
